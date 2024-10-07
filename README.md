@@ -18,6 +18,8 @@ numpy: Para manipulação de arrays e imagens.
 Instale as dependências com o seguinte comando no CMD:
 
 pip install pyautogui opencv-python numpy
+pip install Pillow
+
 Imagem de Referência: As imagens usadas para reconhecimento (como botões de instância, habilidades, etc.) precisam estar disponíveis no caminho especificado no script. Garanta que as imagens estejam na pasta imagens no diretório correto.
 
 Como Funciona
